@@ -1,5 +1,4 @@
 #Nesse código o usuário vai tentar acertar o número sorteado.
-
 numeroSorteado = 17
 numero_usuario = int(input("Digite um número:"))
 
